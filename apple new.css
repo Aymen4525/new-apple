@@ -134,7 +134,7 @@ body{
 .first-wrapper{
     padding-top: 80px;
     color: rgb(0, 0, 0);
-    background-color: white;
+    background: #f5f5f7;
     background-image: url(img/home/fathers_day.jpg);
     height: 500px;
     background-position: center;
